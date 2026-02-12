@@ -107,7 +107,9 @@ ________________________________________
 3.1 Generative Adversarial Networks (GANs)
  
  
- 
+ <img width="940" height="423" alt="image" src="https://github.com/user-attachments/assets/bf64303f-9b04-4cb3-bfe5-134f67f7d192" />
+<img width="940" height="479" alt="image" src="https://github.com/user-attachments/assets/760a3f07-bbbb-4b87-afdb-08629ccadbd8" />
+
 4
 Concept: Two neural networks compete:
 •	Generator → Creates fake data
@@ -118,8 +120,11 @@ Used for:
 •	Synthetic data generation
 ________________________________________
 3.2 Variational Autoencoders (VAEs)
- 
- 
+ <img width="781" height="338" alt="image" src="https://github.com/user-attachments/assets/13da103b-fa87-40d3-aadf-53e2a3510a2f" />
+
+ <img width="940" height="497" alt="image" src="https://github.com/user-attachments/assets/4a987768-2504-4f09-91a2-e6a3d3f7d311" />
+<img width="940" height="934" alt="image" src="https://github.com/user-attachments/assets/7f5247e7-ff30-4566-84cf-200c8b2e1603" />
+
  
 4
 Concept:
@@ -130,9 +135,12 @@ Used for:
 •	Anomaly detection
 ________________________________________
 3.3 Diffusion Models
- 
- 
- 
+ <img width="940" height="468" alt="image" src="https://github.com/user-attachments/assets/b6c5b294-25eb-4e3a-9d5c-a055cde2e4dc" />
+
+ <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/b083ae11-e0ec-4925-a73c-aa3d5b4c9595" />
+
+ <img width="904" height="1201" alt="image" src="https://github.com/user-attachments/assets/a396a024-23a0-424e-ba9a-9ee766ba6a68" />
+
 4
 Concept:
 Adds noise to data gradually and learns to reverse the noise process.
@@ -164,7 +172,9 @@ LLMs are based on the Transformer architecture.
 ________________________________________
 6. Architecture of LLMs
 6.1 Transformer Architecture
- 
+ <img width="940" height="686" alt="image" src="https://github.com/user-attachments/assets/9f6b46a9-eb38-4c8c-b179-75de4d5bce0b" />
+<img width="940" height="333" alt="image" src="https://github.com/user-attachments/assets/27306af9-df89-4969-a6e8-26ca5cfd9adf" />
+
  
  
 4
