@@ -64,7 +64,7 @@ Step 7: Finalize and Export 7.1 Format the report professionally 7.2 Export as P
 
 
 Output:
-
+~~~
 Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
 Title Page
 
@@ -360,8 +360,9 @@ OpenAI Technical Reports
 Google AI Blog
 
 Anthropic Research Publications
-
+~~~
 Result:
+
 The comprehensive report on Fundamentals of Generative AI and Large Language Models (LLMs) was successfully developed. The report clearly explains:
 
 The foundational concepts of Artificial Intelligence and Machine Learning
